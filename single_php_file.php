@@ -3,5 +3,3 @@
 /*
 You are all set !
 */
-
-?>
